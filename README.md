@@ -1,6 +1,6 @@
 # Higher or Lower
 
-This is a text based version of the game card Higher or Lower.
+This is a text based version of the card game Higher or Lower.
 
 ## Rules
 
